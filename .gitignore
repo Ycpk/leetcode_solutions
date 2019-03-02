@@ -1,1 +1,10 @@
+#Bin folder
 bin/
+
+#Compiled files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
